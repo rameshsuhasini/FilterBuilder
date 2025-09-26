@@ -1,0 +1,14 @@
+# Node / Tooling
+node_modules/
+dist/
+.vite/
+coverage/
+*.log
+
+# Env / local
+.env
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
